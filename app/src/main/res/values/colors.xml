@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#ebca0707</color>
+    <color name="dark_primary_color">#B71C1C</color>
+
+    <color name="accent_color">#ffff</color>
+    <color name="card_background">#efefef</color>
+    <color name="facebook_brand_color">#3B5998</color>
+    <color name="google_plus_brand_color">#dc4e41</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="login_primary">#009688</color> <!-- 500 -->
+    <color name="login_primary_dark">#00796B</color> <!-- 700 -->
+    <color name="login_primary_darker">#00695C</color> <!-- 800 -->
+    <color name="login_accent">#FFFFFF</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "422194860025",
+    "firebase_url": "https://springlrdemo1.firebaseio.com",
+    "project_id": "springlrdemo1",
+    "storage_bucket": "springlrdemo1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422194860025:android:646a71975fe6d55a",
+        "android_client_info": {
+          "package_name": "com.example.himanshu.springlrdemo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422194860025-hhuajoolbht5bfmvk5ubrm1cccj7fhqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.himanshu.springlrdemo1",
+            "certificate_hash": "fb2392356471bf43ea132553af204dca5fe53357"
+          }
+        },
+        {
+          "client_id": "422194860025-mbql2u3d16pvr1di3tn7cpv3nbgane7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxvFY-O989x8YYYWGNazxoRUovfLPo3gY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422194860025-mbql2u3d16pvr1di3tn7cpv3nbgane7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
